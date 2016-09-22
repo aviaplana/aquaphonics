@@ -1,0 +1,2 @@
+# aquaphonics
+Automated aquaponic ecosystem
